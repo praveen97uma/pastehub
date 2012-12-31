@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="google-appengine-python" name="Google App Engine (Python)">
+      <configuration>
+        <option name="rootFolder" value="" />
+        <option name="sdkFolder" value="$MODULE_DIR$/../google_appengine" />
+        <option name="templatesFolder" value="" />
+        <option name="email" value="praveen97uma@gmail.com" />
+        <option name="gp" value="dfc3dfc1dfc4dfcfdfdddfd3dfc5dfdfdfd8dfdadfcbdfd9dfd9" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 2.7.3 (/usr/bin/python2.7)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Google App Engine SDK" level="project" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+  </component>
+</module>
+
