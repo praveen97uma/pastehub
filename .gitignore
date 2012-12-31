@@ -1,5 +1,5 @@
 *.pyc
-
+*.*~
 # C extensions
 *.so
 
